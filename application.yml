@@ -1,0 +1,8 @@
+server.port=2020
+spring.application.name=SpringBoot-Microservice1
+my.name=Naveen Karumanchi
+my.list=one,two,three
+spring.mail.host=localhost
+spring.mail.port=12344
+spring.mail.password=naveen
+spring.mail.username=naveen
